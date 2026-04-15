@@ -16,6 +16,8 @@ website:
       contents:
       - text: '2026'
         contents:
+        - text: 2026 Summary
+          href: meetings/2026-summary.qmd
         - text: '2026-04-07'
           href: meetings/2026-04-07-meeting.qmd
         - text: '2026-04-01'
@@ -32,6 +34,8 @@ website:
           href: meetings/2026-02-24-meeting.qmd
       - text: '2025'
         contents:
+        - text: 2025 Summary
+          href: meetings/2025-summary.qmd
         - text: '2025-12-16'
           href: meetings/2025-12-16-meeting.qmd
         - text: '2025-12-10'
@@ -116,6 +120,8 @@ website:
           href: meetings/2025-01-08-meeting.qmd
       - text: '2024'
         contents:
+        - text: 2024 Summary
+          href: meetings/2024-summary.qmd
         - text: '2024-12-11'
           href: meetings/2024-12-11-meeting.qmd
         - text: '2024-11-27'
@@ -170,6 +176,8 @@ website:
           href: meetings/2024-01-10-meeting.qmd
       - text: '2023'
         contents:
+        - text: 2023 Summary
+          href: meetings/2023-summary.qmd
         - text: '2023-12-13'
           href: meetings/2023-12-13-meeting.qmd
         - text: '2023-11-29'
@@ -218,6 +226,8 @@ website:
           href: meetings/2023-01-11-meeting.qmd
       - text: '2022'
         contents:
+        - text: 2022 Summary
+          href: meetings/2022-summary.qmd
         - text: '2022-12-28'
           href: meetings/2022-12-28-meeting.qmd
         - text: '2022-12-14'
@@ -264,6 +274,8 @@ website:
           href: meetings/2022-01-12-meeting.qmd
       - text: '2021'
         contents:
+        - text: 2021 Summary
+          href: meetings/2021-summary.qmd
         - text: '2021-12-15'
           href: meetings/2021-12-15-meeting.qmd
         - text: '2021-12-01'
