@@ -15,17 +15,17 @@ website:
       icon: list
       contents:
       - text: '2026'
-        href: index.qmd#2026
+        href: index.html#year-2026
       - text: '2025'
-        href: index.qmd#2025
+        href: index.html#year-2025
       - text: '2024'
-        href: index.qmd#2024
+        href: index.html#year-2024
       - text: '2023'
-        href: index.qmd#2023
+        href: index.html#year-2023
       - text: '2022'
-        href: index.qmd#2022
+        href: index.html#year-2022
       - text: '2021'
-        href: index.qmd#2021
+        href: index.html#year-2021
 format:
   html:
     theme: cosmo
